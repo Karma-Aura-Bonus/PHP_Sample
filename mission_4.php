@@ -68,10 +68,7 @@
         <input type="text" name="ePassword" placeholder="パスワード" value="">
         <!-編集ボタン->
         <input type="submit" value="編集">
-        <?php
-        echo $ecall; 
-        echo $pcall;
-        ?>
+        
     </form>
     
 <?php 
